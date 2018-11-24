@@ -1,3 +1,9 @@
 ### Parches para resolver distintos errores en ODOO 11
 ### Para ejecutar parche01 
+### Cargamos el archivo
+
+### Hacemos ejecutable el archivo
+sudo chmod +x odoo_install.sh
+### Ejecutamos el Archivo
+./odoo_install.sh
 
