@@ -3,7 +3,8 @@
 ### Cargamos el archivo
 
 ### Hacemos ejecutable el archivo
-sudo chmod +x odoo_install.sh
+sudo chmod +x dte_script_installation.sh
 ### Ejecutamos el Archivo
-./odoo_install.sh
+./dte_script_installation.sh
+
 
